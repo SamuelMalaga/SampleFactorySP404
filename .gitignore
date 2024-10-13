@@ -23,3 +23,8 @@
 hs_err_pid*
 replay_pid*
 /SampleFactory/nbproject/private/
+
+
+
+# mp3 files that are going to be manipulated in this program
+*.mp3
