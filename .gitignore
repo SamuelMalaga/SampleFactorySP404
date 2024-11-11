@@ -28,3 +28,13 @@ replay_pid*
 
 # mp3 files that are going to be manipulated in this program
 *.mp3
+/SampleFactory/build/
+/SampleFactoryMaven/target/
+/SampleFactory/target/
+/Calculator/nbproject/private/
+/Calculator/build/
+/Calculator/dist/
+/CityApp/nbproject/private/
+/CityApp/build/
+/GUI/nbproject/private/
+/GUI/build/
